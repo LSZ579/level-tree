@@ -5,6 +5,7 @@
 插件地址：https://ext.dcloud.net.cn/plugin?id=9976
 ## 升级版（支持异步加载）
 下载地址：https://github.com/LSZ579/level-tree
+预览地址：https://lsz579.github.io/level-tree/
 1.支持纯展示
 2.支持单选（所有可选、只选子级俩种模式）
 3.多选（所有可选、只选子级俩种模式）
